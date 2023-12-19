@@ -1,0 +1,172 @@
+.header{
+    width: 100%;
+    height: 60px;
+}
+a{
+    float: right;
+    color: black;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+    padding-right: 30px;
+}
+.a{
+    color: #C4C4C4;
+    font-size: 18px;
+font-family: rubik;
+font-weight: 700;
+word-wrap: break-word
+}
+.a:hover{
+    color: #058B8C;
+}
+.contant{
+    width: 100%;
+    height: 100%;
+}
+.Best{
+   background-color: #058B8C;
+   font-size: 30px;
+   border-radius: 40px;
+   width: 20%;
+   height: 100%;
+}
+.Welcome{
+font-size: 50px;
+margin: 3%;
+
+}
+.Home{
+color: #1E1E1E;
+ font-size: 90px;
+ font-family: Rubik;
+ font-weight: 700;
+ word-wrap: break-word;
+ margin-left: 3%;
+}
+.Comfort{
+color: #058B8C;
+ font-size: 90px;
+ font-family: Rubik;
+ font-weight: 700;
+ word-wrap: break-word;
+}
+.p{
+  width: 30%;
+color: #1E1E1E;
+ font-size: 24px;
+ font-family: Rubik;
+ font-weight: 400;
+ line-height: 40px;
+ word-wrap: break-word;
+ margin-left: 3%;
+}
+.btn{
+  
+color: #1E1E1E;
+ font-size: 30px;
+ font-family: Rubik;
+ font-weight: 700;
+ text-transform: uppercase;
+ word-wrap: break-word;
+ border-radius: 30px;
+ margin-left: 3%;
+}
+.btn:hover{
+    background-color: #8D0F11;
+    color: white;
+}
+.img{
+    float: right;
+    border-radius: 50%;
+    width: 400px;
+  margin: 30px 100px;
+ 
+}
+
+.images1{
+    display: flex;
+    width: 100%;
+    height: 100%;
+   
+}
+.inner-images{
+   padding-left: 150px;
+   border-radius: 50%;
+   margin-top: 100px;
+}
+.works{
+display: flex;
+width: 100%;
+height: 100%;
+}
+.work-images{
+width: 200px;
+height: 250px;
+padding-left: 100px;
+border-radius: 40px;
+margin-top: 100px;
+}
+.imag{
+display: flex;
+width: 100%;
+height: 100%;
+}
+.image2{
+width: 500px;
+height: 500px;
+border-radius: 250px;
+margin-top: 100px;
+}
+.div{
+margin-top: 200px;
+padding-left: 100px;
+
+color: #058B8C; font-size: 60px; font-family: Rubik; font-weight: 700; word-wrap: break-word; padding-top: 200px;
+ 
+  
+}
+.img3{
+    float: right;
+    width: 350px;
+  height: 350px;
+ margin-right: 100px;
+ margin-bottom: 50px;
+    border-radius: 350px;
+  
+}
+
+.footer{
+    width: 100%;
+    height: 100%;
+    display: flex;
+}
+.footer1{
+    width: 23%;
+    
+}
+
+li{
+    list-style: none;
+    margin-top: 50px;
+    color: #C4C4C4;
+    font-size: 20px;
+    font-family: Rubik;
+    font-weight: 700;
+    line-height: 30px;
+    word-wrap: break-word;
+    padding-left: 25px;
+}
+   
+li:hover{
+  
+    color: #1E1E1E;
+     font-size: 20px;
+     font-family: Rubik;
+     font-weight: 700;
+     line-height: 30px;
+     word-wrap: break-word
+}
+.as:hover{
+color:#1E1E1E;
+}
